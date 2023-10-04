@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Fabrice UWAYEZU 
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently Pharmacy student at University of Rwanda 
+- 💞️ Ask me anything about my stuck
+- 📫 How to reach me: uwafabrice01@gmail.com
+- Fun fact: I'm ALX Software Engineering Program Student (cohort 13)
